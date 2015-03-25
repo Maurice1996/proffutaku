@@ -50,6 +50,7 @@
     <Compile Include="Beheersysteem.Designer.cs">
       <DependentUpon>Beheersysteem.cs</DependentUpon>
     </Compile>
+    <Compile Include="Bestand.cs" />
     <Compile Include="Betaal-overzicht.cs">
       <SubType>Form</SubType>
     </Compile>
