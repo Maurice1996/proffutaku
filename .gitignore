@@ -1,0 +1,7 @@
+###Files and folders specified here will never be tracked.
+
+#Ignore binary and obj files generated for debugging
+/ICT4Events/bin/**/*
+/ICT4Events/obj/**/*
+
+#Ignore file by using the format "*.png" for png files
