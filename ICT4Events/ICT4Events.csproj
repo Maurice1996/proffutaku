@@ -62,12 +62,15 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gebruiker.cs">
+    <Compile Include="Gebruiker.cs" />
+    <Compile Include="GebruikersForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Gebruiker.Designer.cs">
-      <DependentUpon>Gebruiker.cs</DependentUpon>
+    <Compile Include="GebruikersForm.Designer.cs">
+      <DependentUpon>GebruikersForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="GebruikersManager.cs" />
+    <Compile Include="GebruiksDatabase.cs" />
     <Compile Include="Groep.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -115,8 +118,8 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Gebruiker.resx">
-      <DependentUpon>Gebruiker.cs</DependentUpon>
+    <EmbeddedResource Include="GebruikersForm.resx">
+      <DependentUpon>GebruikersForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Groep.resx">
       <DependentUpon>Groep.cs</DependentUpon>

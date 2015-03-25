@@ -1,6 +1,6 @@
 ﻿namespace ICT4Events
 {
-    partial class Gebruiker
+    partial class GebruikersForm
     {
         /// <summary>
         /// Required designer variable.
@@ -414,6 +414,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Gebruiker";
             this.Text = "Gebruiker";
+            this.Load += new System.EventHandler(this.Gebruiker_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
