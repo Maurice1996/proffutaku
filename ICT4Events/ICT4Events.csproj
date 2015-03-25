@@ -50,6 +50,7 @@
     <Compile Include="Beheersysteem.Designer.cs">
       <DependentUpon>Beheersysteem.cs</DependentUpon>
     </Compile>
+    <Compile Include="Bericht.cs" />
     <Compile Include="Bestand.cs" />
     <Compile Include="Betaal-overzicht.cs">
       <SubType>Form</SubType>
@@ -81,6 +82,7 @@
     <Compile Include="Inloggen beheersysteem.Designer.cs">
       <DependentUpon>Inloggen beheersysteem.cs</DependentUpon>
     </Compile>
+    <Compile Include="MediaType.cs" />
     <Compile Include="Reserveringsysteem.cs">
       <SubType>Form</SubType>
     </Compile>
