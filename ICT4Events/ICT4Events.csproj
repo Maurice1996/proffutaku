@@ -82,6 +82,7 @@
     <Compile Include="Inloggen beheersysteem.Designer.cs">
       <DependentUpon>Inloggen beheersysteem.cs</DependentUpon>
     </Compile>
+    <Compile Include="MediaDatabase.cs" />
     <Compile Include="MediaType.cs" />
     <Compile Include="Reserveringsysteem.cs">
       <SubType>Form</SubType>

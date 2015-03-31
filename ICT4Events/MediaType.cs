@@ -8,7 +8,7 @@ namespace ICT4Events
 {
     class MediaType
     {
-        //Doe maar lekker fields, Maurice :^)
+        //Wat voor props/ fields moeten hier komen??????
 
         public MediaType()
         {
